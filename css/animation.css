@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Patrick+Hand&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+p,
+a,
+button,
+label{
+    font-family:"Montserrat" ;
+}
+.submit:hover{
+    box-shadow: 0 8px 16px 0 rgba(84, 221, 42, 0.548);
+}
+
+.nav-home:hover{
+    box-shadow: 0 8px 16px 0 rgba(197, 228, 22, 0.438);
+}
+
+.nav-blog:hover{
+    box-shadow: 0 8px 16px 0 rgba(197, 228, 22, 0.438);
+}
+
+.nav-contact:hover{
+    box-shadow: 0 8px 16px 0 rgba(197, 228, 22, 0.438);
+}
+
+.f-img:hover{
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.5); 
+    
+}

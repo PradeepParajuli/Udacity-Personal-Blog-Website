@@ -1,0 +1,54 @@
+
+
+/*Responsive layout*/
+@media only screen and (min-width: 601px){
+    .about-grid{
+        border-radius: 40px;
+        display: grid;
+        grid-template-columns: 40% 60%;
+        margin: 1%;
+        height: inherit;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .about-grid{
+        border-radius: 40px;
+        display: grid;
+        grid-template-rows: auto;
+        margin: 1%;
+        height: inherit;
+    }
+}
+/*-----------------------------------*/
+
+.name-box{
+    background-color: rgb(255, 118, 137);
+    border-radius: inherit;
+}
+
+.self-card{
+    background-color: rgb(175, 237, 248);
+    border-radius: inherit;
+    height: auto;
+    width: 99%;
+}
+
+.my-image{
+    background-color: rgba(255, 118, 136, 0.384);
+    height: auto;
+    width: inherit;
+    border-radius: 40px;
+    position: initial;
+}
+
+.detail-box{
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.detail{
+    display: flex;
+    flex-direction: column;
+}
