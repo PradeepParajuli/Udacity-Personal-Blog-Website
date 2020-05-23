@@ -1,3 +1,2 @@
 "# Personal-Blog-Website" 
-"# Personal-Blog-Website" 
-"# Udacity-Personal-Blog-Website" 
+https://pradeepparajuli.github.io/Udacity-Personal-Blog-Website/
